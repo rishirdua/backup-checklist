@@ -27,6 +27,10 @@ Configuration files
 - .logout - commands run when user logs out
 - .vimrc - configuration file for vim editor
 
+SSH Keys
+--------
+- `~/.ssh` folder
+
 Fonts
 -----
 `/usr/share/fonts`
